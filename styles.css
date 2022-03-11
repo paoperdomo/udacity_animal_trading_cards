@@ -1,0 +1,48 @@
+/* add your CSS here */
+.bigbox{
+    background-color: #ffffff;
+    border: 1px solid rgb(204, 199, 199);
+    width: 326px;
+    box-shadow: 5px 5px 5px rgb(204, 199, 199);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 50px auto;
+}
+
+.bigboxtittle{
+    font-size: 26px;
+    margin-left: 13px;
+}
+
+.bigboximage{
+    width: 300px;
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+    border: 1px solid rgb(204, 199, 199);
+}
+
+.littlebox{
+    width: 300px;
+    margin: 15px auto;
+    border: 1px solid rgb(204, 199, 199);
+    text-align: justify;
+}
+
+.funfact{
+    font-style: italic;
+    margin: 10px; 
+}
+
+ul{
+    list-style: none;
+    padding: 0; 
+    margin: 10px; 
+}
+
+li span{
+    font-weight: bold;
+}
+
+.description{
+    margin: 10px; 
+}
